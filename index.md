@@ -5,8 +5,9 @@ You can use the [editor on GitHub](https://github.com/3CHosler/3CHosler.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <dl>
-  <dt><strong>Lower cost</strong></dt>
-  <dd>The new version of this product costs significantly less than the previous one!</dd>
+  <dt><strong>First Post</strong></dt>
+  <dd>[How good is the RTX 2080TI
+Really?](_posts/2019-3-11-Training-Benchmarks.html)</dd>
   <dt><strong>Easier to use</strong></dt>
   <dd>We've changed the product so that it's much easier to use!</dd>
   <dt><strong>Safe for kids</strong></dt>
