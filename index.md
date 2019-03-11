@@ -4,6 +4,16 @@ You can use the [editor on GitHub](https://github.com/3CHosler/3CHosler.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<dl>
+  <dt><strong>Lower cost</strong></dt>
+  <dd>The new version of this product costs significantly less than the previous one!</dd>
+  <dt><strong>Easier to use</strong></dt>
+  <dd>We've changed the product so that it's much easier to use!</dd>
+  <dt><strong>Safe for kids</strong></dt>
+  <dd>You can leave your kids alone in a room with this product and they
+      won't get hurt (not a guarantee).</dd>
+</dl>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
