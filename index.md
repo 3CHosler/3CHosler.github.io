@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <dl>
   <dt><strong>First Post</strong></dt>
-  <dd>[How good is the RTX 2080TI
-Really?](/_posts/2019-3-11-Training-Benchmarks.html)</dd>
+  <dd>[How good is the RTX 2080TI Really?]({{site.baseurl}}{% post_url
+/_posts/2019-03-11-Training-Benchmarks.html %})</dd>
   <dt><strong>Easier to use</strong></dt>
   <dd>We've changed the product so that it's much easier to use!</dd>
   <dt><strong>Safe for kids</strong></dt>
