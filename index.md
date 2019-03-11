@@ -13,7 +13,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <dd>You can leave your kids alone in a room with this product and they
       won't get hurt (not a guarantee).</dd>
 </dl>
-
+###Does this work?
+[Link 2 might work]({% post_url 2019-03-11-Training-Benchmarks %})
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
