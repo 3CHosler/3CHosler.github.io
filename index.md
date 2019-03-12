@@ -1,19 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/3CHosler/3CHosler.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<dl>
-  <dt><strong>First Post</strong></dt>
-  <dd>[How good is the RTX 2080TI Really?]({{ site.baseurl }}{% post_url 2019-03-11-Training-Benchmarks %})</dd>
-  <dt><strong>Easier to use</strong></dt>
-  <dd>[Link 2 might work]({% post_url 2019-03-11-Training-Benchmarks %}) </dd>
-  <dt><strong>Safe for kids</strong></dt>
-  <dd>You can leave your kids alone in a room with this product and they
-      won't get hurt (not a guarantee).</dd>
-</dl>
 ###Does this work?
+
 [Link 2 might work]({% post_url 2019-03-11-Training-Benchmarks %})
 ### Markdown
 
