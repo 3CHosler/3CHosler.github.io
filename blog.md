@@ -1,5 +1,5 @@
 ---
-title: Recent Posts
+title: "Recent Posts"
 layout: single
 author_profile: true
 permalink: blog
@@ -9,7 +9,7 @@ permalink: blog
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      {{ post.tagline }}
     </li>
   {% endfor %}
 </ul>

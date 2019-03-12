@@ -24,7 +24,7 @@ url                      : "https://3CHosler.github.io"
 baseurl                  : ""
 repository               : "3CHosler"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/resources/image/misl-logo.png"
+logo                     : "/resources/images/misl-logo.png"
 masthead_title           : "3CHosler"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

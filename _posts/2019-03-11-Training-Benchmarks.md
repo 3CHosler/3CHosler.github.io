@@ -3,6 +3,7 @@ layout: single
 title: "Batch Size Benchmarking"
 author_profile: true
 date: 2019-03-11 4:30:00
+tagline: Libra? Gemini? What does your batch size say about you?
 excerpt_separator: <!--more-->
 ---
 
