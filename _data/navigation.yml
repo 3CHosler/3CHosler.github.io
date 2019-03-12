@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: about
   - title: "Resume"
-    url: BrianHosler.html
+    url: resources/BrianHosler.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
