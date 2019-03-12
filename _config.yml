@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Brian Hosler"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Electrical Engineering PhD student at Drexel University's Multimedia and Information Security Lab."
   location         : "Philadelphia, PA"
   email            : "Brian@drexel.edu"
   links:
@@ -117,7 +117,7 @@ author:
       url: mailto:brian@drexel.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "http://misl.ece.drexel.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

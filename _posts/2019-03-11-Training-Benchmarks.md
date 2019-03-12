@@ -5,7 +5,7 @@ author_profile: true
 date: 2019-03-11 4:30:00
 ---
 
-# Hello
+Libra? Gemini? What does your batch size say about you?
 
 ## Introduction
 I learned Convolutional Neural Networks from the point of view of a
