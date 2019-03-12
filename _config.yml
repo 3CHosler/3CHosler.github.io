@@ -24,7 +24,7 @@ url                      : "https://3CHosler.github.io"
 baseurl                  : ""
 repository               : "3CHosler"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "http://misl.ece.drexel.edu/wp-content/uploads/2016/10/cropped-misl5-e1476300751803.png"
+logo                     : "/resources/image/misl-logo.png"
 masthead_title           : "3CHosler"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Brian Hosler"
-  avatar           : "http://misl.ece.drexel.edu/wp-content/uploads/2018/02/BrianHoslerPhoto.png"
+  avatar           : "/resources/images/headshot.png"
   bio              : "Electrical Engineering PhD student at Drexel University's Multimedia and Information Security Lab."
   location         : "Philadelphia, PA"
   email            : "Brian@drexel.edu"
