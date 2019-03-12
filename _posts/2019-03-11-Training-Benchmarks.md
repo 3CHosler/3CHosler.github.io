@@ -3,9 +3,12 @@ layout: single
 title: "Batch Size Benchmarking"
 author_profile: true
 date: 2019-03-11 4:30:00
+excerpt_separator: <borgle>
 ---
 
 Libra? Gemini? What does your batch size say about you?
+
+<borgle>
 
 ## Introduction
 I learned Convolutional Neural Networks from the point of view of a
