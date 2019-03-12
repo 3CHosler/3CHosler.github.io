@@ -120,7 +120,7 @@ author:
       url: "http://misl.ece.drexel.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/3CHosler"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/3CHosler"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
