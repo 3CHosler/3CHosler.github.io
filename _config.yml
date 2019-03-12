@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: minimal-mistakes-jekyll
 author: 3CHosler
 email: Brian@drexel.edu
 title: 3CHosler
