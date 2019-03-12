@@ -12,7 +12,8 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
@@ -110,11 +111,11 @@ author:
   avatar           : "/resources/images/headshot.png"
   bio              : "Electrical Engineering PhD student at Drexel University's Multimedia and Information Security Lab."
   location         : "Philadelphia, PA"
-  email            : "Brian@drexel.edu"
+  email            : #"Brian@drexel.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:brian@drexel.edu
+      url: mailto:brian@drexel.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://misl.ece.drexel.edu"
