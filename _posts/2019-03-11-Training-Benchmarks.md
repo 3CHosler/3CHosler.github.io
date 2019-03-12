@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Training Benchmark"
+title: "Batch Size Benchmarking"
+author_profile: true
 date: 2019-03-11 4:30:00
 ---
 
