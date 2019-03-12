@@ -22,10 +22,10 @@ name                     : "Brian Hosler"
 description              : "Experiments"
 url                      : "https://3CHosler.github.io"
 baseurl                  : ""
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "3CHosler"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "http://misl.ece.drexel.edu/wp-content/uploads/2018/02/BrianHoslerPhoto.png"
+masthead_title           : "3CHosler"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
